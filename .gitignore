@@ -1,0 +1,9 @@
+*.orig
+*.rej
+util.o 
+dmenu
+dmenu.o
+*.o
+stest
+drw.o
+patches/
